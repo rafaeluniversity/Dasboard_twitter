@@ -1,0 +1,1 @@
+EL archivo DATA.7z contiene los datos, descomprima dentro de esta carpeta.
